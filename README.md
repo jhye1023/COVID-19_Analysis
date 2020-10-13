@@ -1,10 +1,9 @@
-# COVID-19_Analysis
-Our work belongs to everyone
-Download the complete Our World in Data COVID-19 dataset
- .xslx .csv .json (daily updated)
-All our code is open-source
-All our research and visualizations are free for everyone to use for all purposes
-Country-by-country data on mortality risk of the COVID-19 pandemic
+# COVID-19 Analysis and Visualization
+ 
+The goal of this project is tracking the global coronavirus outbreak
+
+
+
 This page has a number of charts on the pandemic. In the box below you can select any country you are interested in – or several, if you want to compare countries.
 
 The primary charts on this page will then show data for the countries that you selected.
