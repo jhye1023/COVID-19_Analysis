@@ -26,7 +26,26 @@ The New York Times COVID-19 Data Repository and this dataset is updated daily by
 
 # COVID-19 Analysis and Visualization
 
+Distribution of COVID-19 cases world wide
 ![Trends of Worldwide COVID-19 Confirmed and Deaths Cases](img/WW.png)
+
+Number of daily confirmed and deathes cases world wide
+![Trends of Worldwide COVID-19 Confirmed and Deaths Cases](img/dailyglobal.png)
+
+Top 10 countries of with the highest confrimed and deaths cases and mortality rates.
+![Trends of Worldwide COVID-19 Confirmed and Deaths Cases](img/global_confirm_death.png)
+![Trends of Worldwide COVID-19 Confirmed and Deaths Cases](img/global_mortality.png)
+
+
+Distribution of COVID-19 cases in the United States
+![Trends of Worldwide COVID-19 Confirmed and Deaths Cases](img/US.png)
+
+Number of daily confirmed and deathes cases in the United States
+![Trends of Worldwide COVID-19 Confirmed and Deaths Cases](img/dailyus.png)
+
+Top 10 states of with the highest confrimed and deaths cases and mortality rates.
+![Trends of Worldwide COVID-19 Confirmed and Deaths Cases](img/us_confirm_death.png)
+![Trends of Worldwide COVID-19 Confirmed and Deaths Cases](img/us_mortality.png)
 
 
 
