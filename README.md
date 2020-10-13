@@ -1,4 +1,4 @@
-# Dssctiprion
+# Dsscription
 
 This project is for analyzing data to show time evolutions and snapshots of Confirmed, Deaths and Mortality Rates in the worldwide and move to explore the evolution of the pandemics in the United States.
 
