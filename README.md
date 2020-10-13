@@ -1,5 +1,5 @@
-# Description
-
+# COVID-19 Pandemic
+Coronavirus is continuing its spread across the world, with more than 37 million confirmed cases in 189 countries and more than one million deaths.
 This project is for analyzing data to show time evolutions and snapshots of Confirmed, Deaths and Mortality Rates in the worldwide and move to explore the evolution of the pandemics in the United States.
 
 # Questions
