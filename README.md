@@ -18,7 +18,7 @@ The New York Times COVID-19 Data Repository and this dataset is updated daily by
 
 # Chart Summary
 
-Covid-19 time series
+## Covid-19 time series
 ![Covid-19 time series](img/US.png)
 ![Covid-19 time series](img/WW.png)
 Covid-19 confirmed cases have seen a sharp increase since July 2020, similar in the U.S. and around the world.
