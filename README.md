@@ -38,7 +38,7 @@ Covid-19 confirmed cases have seen a sharp increase since July 2020, similar in 
 The United States has the highest confirmed cases and death cases but Yemen has the highest mortaily rate in the world.
 
 ## Top 10 states for confirmed cases, death cases and mortality rates
-![Covid-19 time series](img/us_confirm_death 2.png)
+![Covid-19 time series](img/s_confirm_deat2)
 ![Covid-19 time series](img/us_mortality.png)
 
 New York has the highest confirmed cases and death cases but Conneticut has the highest mortaily rate in the world.
