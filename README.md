@@ -24,9 +24,7 @@ The New York Times COVID-19 Data Repository and this dataset is updated daily by
 - Metplotlib
 - Seaborn
 
-# COVID-19 Analysis and Visualization
 
-[Trends of Worldwide COVID-19 Confirmed and Deaths Cases](img/WW.png)
 
 
 
