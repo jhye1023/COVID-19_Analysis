@@ -16,6 +16,11 @@ This project is for analyzing data to show time evolutions and snapshots of Conf
 The New York Times COVID-19 Data Repository and this dataset is updated daily by New York Times.
 - COVID-19 cases for the US ([Link raw file](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv))
 
+# Chart Summary
+
+![Covid-19 time series](img/US.png)
+![Covid-19 time series](img/WW.png)
+
 # Tools used
 
 - Data cleaning using Python
