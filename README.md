@@ -23,13 +23,6 @@ Covid-19 time series
 ![Covid-19 time series](img/WW.png)
 Covid-19 confirmed cases have seen a sharp increase since July 2020, similar in the U.S. and around the world.
 
-Daily New Deaths and Cases in the global
-![Covid-19 time series](img/dailyglobal.png)
-Daily New Deaths and Cases in the United States
-![Covid-19 time series](img/dailyus.png)
-
-![Covid-19 time series](img/global_confirm_death.png)
-![Covid-19 time series](img/global_confirm_death.png)
 
 # Tools used
 
